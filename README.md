@@ -1,2 +1,14 @@
-# AplicacionPythonKivy
-Sistema con Redes Neuronales, para reconocimiento de señales en el Sistema de Transporte Público de Transmilenio.
+# Sistema de Asistencia Guiada para Personas Invidentes con Redes Neuronales, para el Sistema de Transporte Público de Transmilenio.
+Implementando técnicas de inteligencia artificial multiplataforma para dispositivos con cámara y gps
+
+### Diego Alejandro Parra Daza - 20141020063 
+### Camilo Ramirez Alarcon - 20142020078
+Universidad Distrital Francisco José de Caldas Bogotá D.C, Colombia
+
+una idea en el desarrollo de un sistema inteligente que mitigue la problemática que suelen tener las personas invidentes en la movilidad para el desarrollo de sus actividades diarias. Estas personas requieren de una asistencia permanente ya sea de un perro guardián u otra persona para realizar algunas de sus labores, en los que se incluye desplazarse de un punto a otro, también está el desafío de reconocer objetos específicos de los que se requiere estar al tanto y que no se han diseñado para este tipo de personas.
+El sistema propuesto combina algunas tecnologías disponibles que desde una perspectiva de ingeniería de sistemas permite asistir constantemente mediante mensajes de voz al usuario además de contar con un seguimiento GPS (Geolocalización) y un botón de emergencia, que permita conocer la ubicación en tiempo real a una persona de confianza para posteriormente prestar asistencia.
+
+### Python y Kivy
+Python es considerado uno de los lenguajes de programación más fácil de aprender, pero, además, con este lenguaje se pueden hacer aplicaciones muy potentes con un consumo de recursos bastante bajo. Para aumentar la facilidad y la eficiencia con la que se programa en este lenguaje, se crean los framework para Python, que son herramientas con un conjunto de estándares y funcionalidades que ayudan a los programadores a crear mejores aplicaciones en menor tiempo.
+Kivy es uno de los framework para Python que están utilizando los expertos, ya que es multiplataforma y cuenta con soporte para la mayoría de dispositivos móviles y protocolos disponibles en la actualidad. Kivy es un framework para Python de código abierto y multiplataforma que permite desarrollar aplicaciones con funcionalidades complejas, interfaz de usuario amigable y con propiedades multitáctiles, todo esto desde una herramienta intuitiva, orientada a generar prototipos de manera rápida y con diseños eficientes que ayuden a generar códigos reutilizables y de fácil despliegue. 
+Kivy ha sido desarrollado utilizando Python y Cython, se basa en OpenGL ES 2 y soporta una gran cantidad de dispositivos. De igual manera, la herramienta está equipada de una extensa biblioteca de widgets que ayudan a añadir múltiples funcionalidades. Este poderoso framework permite generar código fuente base que puede ser utilizado en aplicaciones orientadas a Linux, Windows, OS X, Android e iOS. Su excelente estabilidad, gran documentación, amplía comunidad y su poderosa API lo convierten en un framework bastante útil para la mayoría de los programadores en Python.
